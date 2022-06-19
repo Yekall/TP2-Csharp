@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qMairvPmPeVaCMHf0U/QHCeo0aAGqqfzKFogUaeL6tHmBsLhuJr0w0UfUjFdlqsimtl/unLYw4/NcH1SUadA4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adrie\\RiderProjects\\tp2\\tp2\\tp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adrie\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}
